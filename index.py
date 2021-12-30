@@ -24,3 +24,5 @@ test()
 # multiline
 # """
 
+my_name = "David C."
+print(f"Hello {my_name}")
