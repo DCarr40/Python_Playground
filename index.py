@@ -52,7 +52,19 @@ print(meal)
 # Define the release and runtime integer variables below:
 release_year = 2021
 runtime = 230
-rating_out_of_10 = 9.0
+
 
 
 # Define the rating_out_of_10 float variable below: 
+rating_out_of_10 = 9.0
+
+#simple computation
+print(25*68+13/28)
+
+#quilt squares
+quilt_width = 8
+quilt_length = 8
+
+first_quilt = quilt_length * quilt_width
+
+print(first_quilt)
