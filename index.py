@@ -1,3 +1,5 @@
+# These are code academy practice problems
+
 def test():
     
     is_it_hot = False
@@ -46,3 +48,11 @@ meal = "chocolate cake"
 # Printing out dinner
 print("Dinner:")
 print(meal)
+
+# Define the release and runtime integer variables below:
+release_year = 2021
+runtime = 230
+rating_out_of_10 = 9.0
+
+
+# Define the rating_out_of_10 float variable below: 
