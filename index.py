@@ -101,3 +101,63 @@ message = f"{string1 }{string2 }{string3 }{string4 }{string5 }{string6 }"
 
 
 print(message)
+
+#Plus Equal Practice
+
+total_price = 0
+
+new_sneakers = 50.00
+
+nice_sweater = 39.00
+fun_books = 20.00
+
+total_price += new_sneakers + nice_sweater + fun_books
+
+
+# Update total_price here:
+
+print("The total price is", total_price)
+
+# Assign the string here
+to_you = """Stranger, if you passing meet me and desire to speak to me, why
+  should you not speak to me?
+And why should I not speak to you?"""
+
+
+print(to_you)
+
+#Review
+
+my_age = 32
+half_my_age = my_age / 2
+greeting = "Hello, "
+name = "David"
+greeting_with_name =  f"{greeting}{name}"
+print(half_my_age)
+print(greeting_with_name)
+
+#David Carruthers
+#tacos
+
+
+first_letter ="""
+DDDD 
+D    D
+D    D
+D    D
+D    D
+D    D
+DDDD 
+"""
+
+second_letter ="""
+ CCC 
+C    C
+C    
+C    
+C    
+C    C
+ CCC 
+"""
+
+print(f"{first_letter}{second_letter}")
